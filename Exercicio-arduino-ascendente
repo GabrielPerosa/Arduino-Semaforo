@@ -1,4 +1,4 @@
-int vermelho = 7;
+oint vermelho = 7;
 int amarelo = 6;
 int verde = 5;
 int azul = 4;
